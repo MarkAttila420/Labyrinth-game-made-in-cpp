@@ -1,0 +1,11 @@
+Stoneteeth;10;100#
+Snakehog;11;7#
+Hollowbeing;12;9#
+Razorling;13;11#
+Flamehood,14;13#
+Blightgirl;15;15#
+Murkserpent;16;17#
+Thundersnake;17;19#
+Vortexmask;18;21#
+Razorwings;19;23#
+Cavetalon;20;25#

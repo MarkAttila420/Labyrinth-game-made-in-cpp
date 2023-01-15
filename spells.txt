@@ -1,0 +1,10 @@
+Pyro Orb;5;5#
+Lunar Rage;10;10#
+Thunder Flare;15;15#
+Death Spike;15;20#
+Energy Burn;15;30#
+Inferno;20;35#
+Shooting Star;5;10#
+Ice Storm;10;25#
+Fire Fury;0;5#
+Holy Burn;10;30#

@@ -1,0 +1,314 @@
+# depslib dependency file v1.0
+1618307708 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek 3\map.cpp
+	"map.h"
+
+1618307708 c:\users\boysw\desktop\c++\nagyhf\kalandjatek 3\map.h
+	<iostream>
+	"string.h"
+	"objektum.h"
+	<fstream>
+	<vector>
+
+1618490168 c:\users\boysw\desktop\c++\nagyhf\kalandjatek 3\objektum.h
+	"string.h"
+	<iostream>
+
+1618307708 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek 3\objektum.cpp
+	"objektum.h"
+	"map.h"
+
+1618494795 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek 3\main.cpp
+	<iostream>
+	"map.h"
+	"objektum.h"
+	<new>
+
+1619092626 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek5\main.cpp
+	<iostream>
+	"map.h"
+	"objektum.h"
+	<conio.h>
+	"lista.h"
+
+1619092721 c:\users\boysw\desktop\c++\nagyhf\kalandjatek5\map.h
+	<iostream>
+	"string.h"
+	"objektum.h"
+
+1619092721 c:\users\boysw\desktop\c++\nagyhf\kalandjatek5\objektum.h
+	"string.h"
+	<iostream>
+	<fstream>
+	"lista.h"
+	<conio.h>
+
+1618859356 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek5\map.cpp
+	"map.h"
+
+1619092721 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek5\objektum.cpp
+	"objektum.h"
+	"map.h"
+
+1618992447 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek5\lista.cpp
+	"lista.h"
+
+1619032139 c:\users\boysw\desktop\c++\nagyhf\kalandjatek5\lista.h
+	<iostream>
+
+1618992447 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek6\lista.cpp
+	"lista.h"
+
+1619188366 c:\users\boysw\desktop\c++\nagyhf\kalandjatek6\lista.h
+	<iostream>
+
+1619191563 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek6\main.cpp
+	<iostream>
+	"map.h"
+	"objektum.h"
+	<conio.h>
+	"lista.h"
+
+1619174103 c:\users\boysw\desktop\c++\nagyhf\kalandjatek6\map.h
+	<iostream>
+	"string.h"
+	"objektum.h"
+	"labstring.h"
+
+1619193266 c:\users\boysw\desktop\c++\nagyhf\kalandjatek6\objektum.h
+	"string.h"
+	<iostream>
+	<fstream>
+	"lista.h"
+	<conio.h>
+	"labstring.h"
+
+1619176161 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek6\map.cpp
+	"map.h"
+
+1619193218 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek6\objektum.cpp
+	"objektum.h"
+	"map.h"
+
+1619168077 c:\users\boysw\desktop\c++\nagyhf\kalandjatek6\string.h
+
+1619168810 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek6\labstring.cpp
+	<iostream>
+	<cstring>
+	"labstring.h"
+
+1619168810 c:\users\boysw\desktop\c++\nagyhf\kalandjatek6\labstring.h
+	<iostream>
+
+1619168810 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek7\labstring.cpp
+	<iostream>
+	<cstring>
+	"labstring.h"
+
+1619168810 c:\users\boysw\desktop\c++\nagyhf\kalandjatek7\labstring.h
+	<iostream>
+
+1618992447 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek7\lista.cpp
+	"lista.h"
+
+1619203848 c:\users\boysw\desktop\c++\nagyhf\kalandjatek7\lista.h
+	<iostream>
+
+1619207303 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek7\main.cpp
+	<iostream>
+	"map.h"
+	"objektum.h"
+	<conio.h>
+	"lista.h"
+
+1619205397 c:\users\boysw\desktop\c++\nagyhf\kalandjatek7\map.h
+	<iostream>
+	<fstream>
+	"string.h"
+	"labstring.h"
+
+1619206699 c:\users\boysw\desktop\c++\nagyhf\kalandjatek7\objektum.h
+	"string.h"
+	<iostream>
+	<fstream>
+	"lista.h"
+	"map.h"
+	<conio.h>
+	"labstring.h"
+
+1619176161 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek7\map.cpp
+	"map.h"
+
+1619207535 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek7\objektum.cpp
+	"objektum.h"
+	"map.h"
+
+1619168810 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek8\labstring.cpp
+	<iostream>
+	<cstring>
+	"labstring.h"
+
+1619168810 c:\users\boysw\desktop\c++\nagyhf\kalandjatek8\labstring.h
+	<iostream>
+
+1619261038 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek8\main.cpp
+	<iostream>
+	"map.h"
+	"objektum.h"
+	<conio.h>
+	"lista.h"
+
+1619205397 c:\users\boysw\desktop\c++\nagyhf\kalandjatek8\map.h
+	<iostream>
+	<fstream>
+	"string.h"
+	"labstring.h"
+
+1619261038 c:\users\boysw\desktop\c++\nagyhf\kalandjatek8\objektum.h
+	"string.h"
+	<iostream>
+	<fstream>
+	"lista.h"
+	"map.h"
+	<conio.h>
+	"labstring.h"
+
+1619203848 c:\users\boysw\desktop\c++\nagyhf\kalandjatek8\lista.h
+	<iostream>
+
+1619176161 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek8\map.cpp
+	"map.h"
+
+1619261038 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek8\objektum.cpp
+	"objektum.h"
+	"map.h"
+
+1620050853 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek9\labstring.cpp
+	<iostream>
+	<cstring>
+	"labstring.h"
+	"memtrace.h"
+
+1620050809 c:\users\boysw\desktop\c++\nagyhf\kalandjatek9\labstring.h
+	<iostream>
+	"memtrace.h"
+
+1620111015 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek9\main.cpp
+	<iostream>
+	"map.h"
+	"objektum.h"
+	"lista.h"
+	"memtrace.h"
+
+1620050646 c:\users\boysw\desktop\c++\nagyhf\kalandjatek9\map.h
+	<iostream>
+	<fstream>
+	"labstring.h"
+	"memtrace.h"
+
+1620048406 c:\users\boysw\desktop\c++\nagyhf\kalandjatek9\objektum.h
+	<iostream>
+	<fstream>
+	"lista.h"
+	"map.h"
+	"labstring.h"
+	"memtrace.h"
+
+1619880363 c:\users\boysw\desktop\c++\nagyhf\kalandjatek9\lista.h
+	<iostream>
+	"memtrace.h"
+
+1620050317 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek9\map.cpp
+	"map.h"
+	"memtrace.h"
+
+1620111855 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek9\objektum.cpp
+	"objektum.h"
+	"map.h"
+	"memtrace.h"
+
+1613635256 c:\users\boysw\desktop\c++\nagyhf\kalandjatek9\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1613635256 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek9\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1620050853 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek10\labstring.cpp
+	<iostream>
+	<cstring>
+	"labstring.h"
+	"memtrace.h"
+
+1620050809 c:\users\boysw\desktop\c++\nagyhf\kalandjatek10\labstring.h
+	<iostream>
+	"memtrace.h"
+
+1613635256 c:\users\boysw\desktop\c++\nagyhf\kalandjatek10\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1620988991 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek10\main.cpp
+	<iostream>
+	"map.h"
+	"objektum.h"
+	"lista.h"
+	"memtrace.h"
+
+1620988963 c:\users\boysw\desktop\c++\nagyhf\kalandjatek10\map.h
+	<iostream>
+	<fstream>
+	"labstring.h"
+	"memtrace.h"
+
+1620048406 c:\users\boysw\desktop\c++\nagyhf\kalandjatek10\objektum.h
+	<iostream>
+	<fstream>
+	"lista.h"
+	"map.h"
+	"labstring.h"
+	"memtrace.h"
+
+1619880363 c:\users\boysw\desktop\c++\nagyhf\kalandjatek10\lista.h
+	<iostream>
+	"memtrace.h"
+
+1620988985 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek10\map.cpp
+	"map.h"
+	"memtrace.h"
+
+1613635256 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek10\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1620988997 source:c:\users\boysw\desktop\c++\nagyhf\kalandjatek10\objektum.cpp
+	"objektum.h"
+	"map.h"
+	"memtrace.h"
+
